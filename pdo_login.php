@@ -3,12 +3,12 @@
  
  $host = "remotemysql.com:3306";
 $dbname = "8MmzlXeqbr"; // to adapt
-$login = "root";
-$mdp = "root";
+$login = "8MmzlXeqbr";
+$mdp = "aba8nc4wIf";
  $message = "";  
  try  
  {  
-      $connect = new PDO("mysql:host=$host;port=3306 dbname=$database", $username, $password);  
+      $connect = new PDO("mysql:host=$host; dbname=$database", $username, $password);  
       $connect->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);  
       if(isset($_POST["login"]))  
       {  

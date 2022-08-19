@@ -4,8 +4,8 @@
 
 $host = "remotemysql.com:3306";
 $dbname = "8MmzlXeqbr"; // to adapt
-$login = "root";
-$mdp = "root";
+$login = "8MmzlXeqbr";
+$mdp = "aba8nc4wIf";
 
 /**
  * try connection
