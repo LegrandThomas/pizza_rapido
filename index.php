@@ -11,7 +11,7 @@
 </head>
 <body> 
 
-<a href="pdo_login.php"><img class="fit-picture"
+<a href="./pdo_login.php"><img class="fit-picture"
      src="./images/Pizza_RAPIDO.png"
   ></a>
 
