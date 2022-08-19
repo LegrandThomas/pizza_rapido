@@ -1,9 +1,10 @@
 <?php  
  session_start();  
- $host = "database";  
- $username = "user";  
- $password = "mdp";  
- $database = "Pizza_rapido";  
+ 
+ $host = "remotemysql.com::3306";
+$dbname = "8MmzlXeqbr"; // to adapt
+$login = "8MmzlXeqbr";
+$mdp = "aba8nc4wIf";
  $message = "";  
  try  
  {  

@@ -2,10 +2,10 @@
 
 
 
-$host = "database";
-$dbname = "Pizza_rapido"; // to adapt
-$login = "root";
-$mdp = "root";
+$host = "remotemysql.com::3306";
+$dbname = "8MmzlXeqbr"; // to adapt
+$login = "8MmzlXeqbr";
+$mdp = "aba8nc4wIf";
 
 /**
  * try connection
